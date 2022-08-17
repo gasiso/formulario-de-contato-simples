@@ -1,4 +1,4 @@
-# formulario-de-contato-simples
+# Formulário de Contato Simples
 
 Formulário de cadastro simples desenvolvido apenas para praticar.
 
